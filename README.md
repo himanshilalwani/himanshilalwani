@@ -5,10 +5,10 @@
 ⚡  Interested in Data Science, Machine Learning, and Web Development <br>
 🔭 Currently working as a Research Assistant at the Center for Quantum and Topological Systems, NYU Abu Dhabi
 
-### Favourite Projects
-[LocateYourWaste - Empowering NYC for a Cleaner Future](https://github.com/himanshilalwani/ppds-locate-your-waste)<br>
-[Study Buddy Project](https://github.com/Ava-creates/study_buddy)<br>
-[Money Tracker](https://github.com/himanshilalwani/ait-expense-tracker)
+### Recent Projects
+- [LocateYourWaste - Empowering NYC for a Cleaner Future](https://github.com/himanshilalwani/ppds-locate-your-waste)
+- [Study Buddy Project](https://github.com/Ava-creates/study_buddy)
+- [Money Tracker](https://github.com/himanshilalwani/ait-expense-tracker)
 
 ### Main Toolkit
 <div>
