@@ -3,7 +3,7 @@
 😄  Pronouns: She/her <br>
 👩‍💻  Senior studying Computer Science and Mathematics at NYU Abu Dhabi <br>
 ⚡  Interested in Data Science, Machine Learning, and Web Development <br>
-🔭 Currently working as a Research Assistant at the Center for Quantum and Topological Systems, NYU Abu Dhabi
+🔭 Currently working as a Research Assistant at the Social Machines and RoboTics (SMART) Lab, NYU Abu Dhabi
 
 ### Recent Projects
 - [LocateYourWaste - Empowering NYC for a Cleaner Future](https://github.com/himanshilalwani/ppds-locate-your-waste)
