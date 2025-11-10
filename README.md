@@ -1,8 +1,8 @@
 ### Hi there, I am Himanshi 👋
 
 😄  Pronouns: She/her <br>
-👩‍💻  Senior studying Computer Science and Mathematics at NYU Abu Dhabi <br>
-⚡  Interested in Data Science, Machine Learning, and Web Development <br>
+👩‍💻  Computer Science and Mathematics Graduate from NYU Abu Dhabi <br>
+⚡  Interested in Data Science, Machine Learning, and Social Robotics <br>
 🔭 Currently working as a Research Assistant at the Social Machines and RoboTics (SMART) Lab, NYU Abu Dhabi
 
 ### Recent Projects
